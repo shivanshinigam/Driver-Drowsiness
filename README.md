@@ -54,6 +54,7 @@
 
 ⚙️ Configuration Options
 Sidebar Controls:
+
 Eye Aspect Ratio Threshold (EAR): Configure sensitivity for eye closure detection.
 Mouth Aspect Ratio Threshold (MAR): Set the yawning detection threshold.
 Head Tilt Alarm Trigger: Adjust the duration for head tilt detection before triggering an alert.
