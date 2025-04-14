@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+playsound
+gTTS
+mediapipe
+scipy
+imutils
+dlib
+logging
